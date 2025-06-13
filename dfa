@@ -1,0 +1,107 @@
+[33mcommit 4694c93af97ae311b9fa9836150a131a8ffe53d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Wed Jun 4 14:08:39 2025 +0900
+
+    메인 슬라이드 추가
+
+[33mcommit 5251b4e9711ba548a6872c54aa7dd31eb5092552[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Sat May 31 19:24:01 2025 +0900
+
+    메인 순서 수정
+
+[33mcommit 478926dcfa4f421a1c2c59f097397d708b2ab83c[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Sat May 31 19:09:53 2025 +0900
+
+    map 수정
+
+[33mcommit 57ad3148fab5319abfcf93deb4ffd99257faed45[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Sun May 25 18:37:08 2025 +0900
+
+    카카오 채널 연동
+
+[33mcommit 043cf08c56376601f4b03f1e8921dd1157e439a4[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Sun May 25 18:28:13 2025 +0900
+
+    플로팅 버튼 색상 변경
+
+[33mcommit 939f46e96865eb5f5ab8810b7b826759c4eeeafd[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Fri May 23 12:57:34 2025 +0900
+
+    assets 이동
+
+[33mcommit 239710a25f072854cb439f65cd8d98f5c0511834[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Fri May 23 12:38:02 2025 +0900
+
+    add netlify.toml
+
+[33mcommit da5fb9e287f3313157b336ad22c210b926717e97[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Fri May 23 12:17:08 2025 +0900
+
+    Add _redirects file
+
+[33mcommit 9e41304a01074f74d83e8428d3b69ca92c9a78fe[m
+Author: Lee dahye <g_g0217@naver.com>
+Date:   Fri May 23 10:02:19 2025 +0900
+
+    처음 올리는 코드
+
+[33mcommit fbd028ab5f0e7b4a139dd52911020583f95f030a[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Thu May 22 13:28:32 2025 +0900
+
+    지도 pc,mobile zoom 조정
+
+[33mcommit 18a3a8626c6f933f95e13d35ebbd9c6896d239c5[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Thu May 22 13:05:23 2025 +0900
+
+    모바일 줄바꿈
+
+[33mcommit 526122f5daf18d8d3abb0e6db0d55ed37a79fe1f[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Thu May 22 10:02:38 2025 +0900
+
+    지도 완료
+
+[33mcommit 52a09af84beaa18bb6b9dcdc196fa68b5fd53391[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Wed May 21 15:48:23 2025 +0900
+
+    애니메이션 공통
+
+[33mcommit 000678ca0e77d0bdffb87b7ab66f6177ec31f4b3[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Wed May 21 15:42:35 2025 +0900
+
+    다른 이유 완료
+
+[33mcommit 59a93b07c50637bafc6a69c92d9ae85e3d244468[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Wed May 21 15:26:35 2025 +0900
+
+    프로그램 내용 완료
+
+[33mcommit f6488e734f206c634f3f028d75fa016c74c17f6d[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Wed May 21 09:36:23 2025 +0900
+
+    레슨 비용 완료
+
+[33mcommit 1e9b1adeaf014dcd169cb36863a5bb290e92de7e[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Tue May 20 17:45:46 2025 +0900
+
+    메인, 클럽 완료
+
+[33mcommit 48039d24e39e836a3411324d8c6a7c29c2502920[m
+Author: noh jiseon <js.noh@kthd.co.kr>
+Date:   Wed May 14 17:02:00 2025 +0900
+
+    초기세팅
